@@ -1,5 +1,5 @@
 import express from 'express'
-import { veiculoRouter } from './routes/veiculo.routes.js'
+import veiculoRouter  from './routes/veiculo.routes.js'
 
 const server = express()
 
